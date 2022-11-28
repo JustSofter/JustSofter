@@ -6,4 +6,4 @@ Algunas cosas que hago:
 
 `✨ - Hago bots de Discord con JavaScript y Node.JS`
 
-`🪴 - Traducciones de programas y modificaciones raras que hago por diversión más que nada.`
+`🌸 - Trato de experimentar con diversas cosas para ir aprendiendo poco a poco de todo esto.`
